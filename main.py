@@ -166,7 +166,7 @@ def compare_performance():
 
 # CHARTS
 def make_charts(data):
-    """Create only 2 charts: all branches and totals"""
+    """All branches and totals"""
     colors = ['blue', 'red', 'green', 'purple', 'orange']
 
     # Chart: All branches monthly sales
